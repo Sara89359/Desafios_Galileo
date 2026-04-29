@@ -47,4 +47,5 @@ Este proyecto demuestra tu capacidad para:
 
 ### 📁 Estructura del repositorio
 /Desafíos_Galileo.ipynb   # Notebook con los ejercicios
-/README.md                # Este archivo
+/biblioteca.db            # Base de datos utilizada
+/README.md                # Este archivo   
